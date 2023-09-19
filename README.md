@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1MTAEHONG&langs_count=8)](https://github.com/K1MTAEHONG/github-readme-stats)
